@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <SwitchPreference
+            app:key="key_notification"
+            app:summary="Pengingat event terdekat"
+            app:title="Notifikasi"
+            app:icon="@drawable/baseline_notifications_24"/>
+
+</PreferenceScreen>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/baseline_home_24"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/tournament"
+        android:title="Tournament"
+        android:icon="@drawable/baseline_videogame_asset_24"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/order"
+        android:title="Order"
+        android:icon="@drawable/baseline_history_24"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/profile"
+        android:title="Profile"
+        android:icon="@drawable/baseline_person_24"
+        app:showAsAction="ifRoom"/>
+</menu>

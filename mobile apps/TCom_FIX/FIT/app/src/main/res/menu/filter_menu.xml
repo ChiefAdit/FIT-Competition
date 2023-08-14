@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/sort_all"
+        android:title="Semua" />
+    <item android:id="@+id/sort_time"
+        android:title="Urutkan Berdasarkan Waktu" />
+    <item android:id="@+id/sort_location"
+        android:title="Urutkan Berdasarkan Lokasi" />
+    <item android:id="@+id/sort_ml"
+        android:title="ML" />
+    <item android:id="@+id/sort_pubg"
+        android:title="PUBG" />
+</menu>

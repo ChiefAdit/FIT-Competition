@@ -1,0 +1,28 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Tcom" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/yellow</item>
+        <item name="android:statusBarColor">?attr/colorPrimary</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.Tcom.NoActionBar" parent="Base.Theme.Tcom">
+        <!-- Set the action bar styles to have no action bar -->
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <!-- Apply the NoActionBar theme as the default theme -->
+    <style name="Theme.Tcom" parent="Theme.Tcom.NoActionBar">
+        <!-- Add any additional theme customizations here -->
+    </style>
+
+    <!-- Define a separate theme for activity with an action bar if needed -->
+    <style name="Theme.SampleTcom.WithActionBar" parent="Base.Theme.Tcom">
+        <!-- Add action bar related styles here -->
+    </style>
+
+    <style name="DarkSearchView" parent="Theme.Material3.DayNight.NoActionBar"></style>
+</resources>

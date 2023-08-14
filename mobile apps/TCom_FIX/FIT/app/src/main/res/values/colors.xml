@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#2c2c2c</color>
+    <color name="backgroundDalam">#595959</color>
+    <color name="yellow">#FFF5BB18</color>
+    <color name="yellowBackground">#FFF5BB18</color>
+    <color name="yellowText">#f9db00</color>
+    <color name="yellow_disable"> #FFDC78 </color>
+    <color name="green">#FF7CFC00</color>
+    <color name="red">#FFFF0000</color>
+    <color name="grey">#FF808080</color>
+    <color name="grey2">#FFA9A9A9</color>
+    <color name="gret3">#b0b8b6</color>
+    <color name="backgroundInput">#edebeb</color>
+</resources>
